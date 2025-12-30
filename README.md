@@ -12,9 +12,9 @@
 ## 🔧 Languages & Tools
 - JavaScript · React · Next.js · Node.js · Express · MongoDB · HTML · CSS
 
-## 🔭 Featured Projects
-- **Portfolio** — Personal website (link)
-- **QuizApp** — Simple React quiz (link)
-- **MyCart / e-com** — small shopping UI (link)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Node](https://img.shields.io/badge/Node-green)
+
 
 ---
