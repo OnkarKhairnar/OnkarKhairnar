@@ -1,4 +1,7 @@
-# Hi, I’m Onkar Khairnar 👋
+![Profile Views](https://komarev.com/ghpvc/?username=OnkarKhairnar&label=Profile%20Views&color=blue&style=flat)
+
+
+# Hi, I’m Onkar Khairnar 
 
 **MERN / Frontend developer** • learning & building small fullstack apps
 
