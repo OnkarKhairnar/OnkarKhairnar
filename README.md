@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OnkarKhairnar&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 # Hi, this is me Onkar Khairnar 👋
 
 **MERN / Frontend Developer**  
 Learning & building full-stack applications
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OnkarKhairnar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
