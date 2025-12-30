@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Onkar Khairnar 👋
 
-<!--
-**OnkarKhairnar/OnkarKhairnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN / Frontend developer** • learning & building small fullstack apps
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building: *Portfolio* and *ToDo / E-commerce demo*
+- 🌱 I’m learning: React, Next.js, Node, MongoDB, AWS
+- 📫 How to reach me: onkar.your.email@example.com
+- 🔗 Portfolio: https://your-portfolio-url.vercel.app
+- ⚡ Fun: I like simple clean UI and small useful tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Languages & Tools
+- JavaScript · React · Next.js · Node.js · Express · MongoDB · HTML · CSS
+
+## 🔭 Featured Projects
+- **Portfolio** — Personal website (link)
+- **QuizApp** — Simple React quiz (link)
+- **MyCart / e-com** — small shopping UI (link)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnkarKhairnar&show_icons=true)
