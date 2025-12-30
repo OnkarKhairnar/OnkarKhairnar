@@ -33,5 +33,6 @@ Learning & building full-stack applications
 
 ### 🔥 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OnkarKhairnar" />
+  <img src="https://streak-stats.demolab.com/?user=OnkarKhairnar&theme=dark&hide_border=true" />
+
 </p>
