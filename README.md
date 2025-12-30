@@ -4,10 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OnkarKhairnar&label=Profile%20Views&color=blue&style=flat)
 
-- 🔭 I’m currently building: *Portfolio* and *ToDo / E-commerce demo*
-- 🌱 I’m learning: React, Next.js, Node, MongoDB, AWS
-- 📫 How to reach me: onkar.your.email@example.com
-- 🔗 Portfolio: https://your-portfolio-url.vercel.app
+- 🔭 I’m currently building: *Quiz Application*
+- 📫 Reach me: onkarkhairnar97@gmail.com
+- 🔗 Portfolio: https://onkarkhairnar.github.io/Portfolio/
 - ⚡ Fun: I like simple clean UI and small useful tools
 
 ## 🔧 Languages & Tools
@@ -19,5 +18,3 @@
 - **MyCart / e-com** — small shopping UI (link)
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OnkarKhairnar&show_icons=true)
