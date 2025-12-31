@@ -52,6 +52,11 @@ Frontend Technologies
 
 </div>
 
+| Vue.js | React.js | Angular | CSS3 | HTML5 | Bootstrap | Tailwind |
+|--------|----------|---------|------|-------|-----------|----------|
+| <img src="https://skillicons.dev/icons?i=vue" height="50" /> | <img src="https://skillicons.dev/icons?i=react" height="50" /> | <img src="https://skillicons.dev/icons?i=angular" height="50" /> | <img src="https://skillicons.dev/icons?i=css" height="50" /> | <img src="https://skillicons.dev/icons?i=html" height="50" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="50" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="50" /> |
+
+
 
 
 ---
