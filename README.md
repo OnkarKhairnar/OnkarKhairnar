@@ -52,10 +52,23 @@ Frontend Technologies
 
 </div>
 
-| Vue.js | React.js | Angular | CSS3 | HTML5 | Bootstrap | Tailwind |
-|--------|----------|---------|------|-------|-----------|----------|
-| <img src="https://skillicons.dev/icons?i=vue" height="50" /> | <img src="https://skillicons.dev/icons?i=react" height="50" /> | <img src="https://skillicons.dev/icons?i=angular" height="50" /> | <img src="https://skillicons.dev/icons?i=css" height="50" /> | <img src="https://skillicons.dev/icons?i=html" height="50" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="50" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="50" /> |
+Backend Development
 
+<div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="rest api logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
+</p>
+
+  
+</div>
 
 
 
