@@ -20,20 +20,20 @@ Learning & building full-stack applications
 ### 🔧 Languages & Tools
 
 
-<div align="center">
-  Programming Language
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+<h3 align="center">🧠 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="python logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo" />
 </p>
-</div>
+
 
 
 <div>
