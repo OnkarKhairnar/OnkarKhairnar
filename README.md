@@ -128,6 +128,30 @@ Learning & building full-stack applications
   </a>
 </p>
 
+<h3 align="center">🔗 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" />
+  </a>
+  <img width="14" />
+  <a href="https://twitter.com">
+    <img src="https://skillicons.dev/icons?i=twitter" height="55" alt="Twitter" />
+  </a>
+  <img width="14" />
+  <a href="https://discord.com">
+    <img src="https://skillicons.dev/icons?i=discord" height="55" alt="Discord" />
+  </a>
+  <img width="14" />
+  <a href="https://www.twitch.tv">
+    <img src="https://skillicons.dev/icons?i=twitch" height="55" alt="Twitch" />
+  </a>
+  <img width="14" />
+  <a href="https://dev.to">
+    <img src="https://skillicons.dev/icons?i=dev" height="55" alt="dev.to" />
+  </a>
+</p>
+
 
 ---
 
