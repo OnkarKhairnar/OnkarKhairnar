@@ -132,22 +132,23 @@ Learning & building full-stack applications
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=OnkarKhairnar&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=OnkarKhairnar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 
   <!-- Streak Stats -->
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=OnkarKhairnar&theme=dracula" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=OnkarKhairnar&theme=radical" alt="GitHub Streak" />
 
   <!-- Trophy Stats -->
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=OnkarKhairnar&theme=dracula" alt="GitHub Trophies" />
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=OnkarKhairnar&theme=radical" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 <!-- Pacman-style Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OnkarKhairnar/OnkarKhairnar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OnkarKhairnar/OnkarKhairnar/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/OnkarKhairnar/OnkarKhairnar/output/pacman-contribution-graph.svg">
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OnkarKhairnar/OnkarKhairnar/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OnkarKhairnar/OnkarKhairnar/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/OnkarKhairnar/OnkarKhairnar/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
