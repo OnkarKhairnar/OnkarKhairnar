@@ -22,7 +22,7 @@ Learning & building full-stack applications
 
 <div align="center">
   Programming Language
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
