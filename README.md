@@ -132,11 +132,11 @@ Learning & building full-stack applications
 
 <div align="center">
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=OnkarKhairnar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OnkarKhairnar&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 
-  <img height="150" src="https://streak-stats.demolab.com/?user=OnkarKhairnar&theme=radical" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=OnkarKhairnar&theme=radical" alt="GitHub Streak" />
 
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=OnkarKhairnar&theme=radical" alt="GitHub Trophies" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=OnkarKhairnar&theme=radical" alt="GitHub Trophies" />
 
 </div>
 
