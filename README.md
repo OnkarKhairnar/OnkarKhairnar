@@ -19,8 +19,9 @@ Learning & building full-stack applications
 
 ### 🔧 Languages & Tools
 
-Programming Language
+
 <div align="center">
+  Programming Language
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
@@ -34,9 +35,10 @@ Programming Language
 </p>
 </div>
 
-Frontend Technologies
+
 <div>
   <p align="center">
+    Frontend Technologies
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
@@ -54,10 +56,11 @@ Frontend Technologies
 
 </div>
 
-Backend Development
+
 
 <div>
 <p align="center">
+  Backend Development
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
@@ -70,20 +73,21 @@ Backend Development
 </p>
 </div>
 
-Database
-<div>
-  <p align="left">
+
+<div align="center">
+    Database
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" />
-</p>
+
 </div>
 
-Tools
+
 <div>
   <p align="center">
+    Tools
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
