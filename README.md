@@ -36,82 +36,98 @@ Learning & building full-stack applications
 
 
 
-<div>
-  <p align="center">
-    Frontend Technologies
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
-</p>
+<h3 align="center">🎨 Frontend Technologies</h3>
 
-</div>
-
-
-
-<div>
 <p align="center">
-  Backend Development
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="rest api logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
-</p>
-</div>
-
-
-<div align="center">
-    Database
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" />
-
-</div>
-
-
-<div>
-  <p align="center">
-    Tools
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=vue" height="55" alt="vue logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=angular" height="55" alt="angular logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="bootstrap logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwind logo" />
 </p>
 
-</div>
+
+
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="55" alt="graphql logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="rest api logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo" />
+</p>
+
+
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="55" alt="postgresql logo" />
+</p>
+
+
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo" />
+</p>
+
 
 
 
 
 ---
-**<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>**
+<h3 align="center">🔗 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+  </a>
+  <img width="10" />
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="Twitter" />
+  </a>
+  <img width="10" />
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord" />
+  </a>
+  <img width="10" />
+  <a href="https://www.twitch.tv">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="25" alt="Twitch" />
+  </a>
+  <img width="10" />
+  <a href="https://dev.to">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="25" alt="dev.to" />
+  </a>
+</p>
+
 
 ---
 
