@@ -116,13 +116,10 @@ Learning & building full-stack applications
     <img src="https://skillicons.dev/icons?i=discord" height="55" alt="Discord" />
   </a>
   <img width="14" />
-  <a href="https://www.twitch.tv">
-    <img src="https://skillicons.dev/icons?i=twitch" height="55" alt="Twitch" />
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram" />
   </a>
-  <img width="14" />
-  <a href="https://dev.to">
-    <img src="https://skillicons.dev/icons?i=dev" height="55" alt="dev.to" />
-  </a>
+
 </p>
 
 
